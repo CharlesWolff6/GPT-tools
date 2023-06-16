@@ -9,7 +9,7 @@
 
 ### 汇总了一下各个GPT对比，请参考：
 | 名称 | 是否有限制 | 需要注册账号 | 支持中文 | 付费套餐 | 链接 | 备注 |
-| :----- | :----- | :----- | :----- | :----- | :----- | :----- | :-----|
+| :----- | :----- | :----- | :----- | :----- | :----- | :-----|
 | 不限量ChatGPT[Poe.com](https://poe.com/ChatGPT) | 暂无 | 是 | 是 | 有 |  https://poe.com/ChatGPT | 无 |
 | 不限量Sage[Poe.com](https://poe.com/Sage) | 暂无 | 是 | 是 | 有 |  https://poe.com/Sage | 无 |
 | 限量Claude[Poe.com](https://poe.com/Claude%2B) | 暂无 | 一天三条 | 是 | 有 |  https://poe.com/Claude%2B | 无 |
